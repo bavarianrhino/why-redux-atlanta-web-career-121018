@@ -85,6 +85,7 @@ action = {
   }
 }
 ```
+* Whats Going on here?? Is Type a redux key word???
 
 Here, we can imagine that after a user fills out a form and clicks submit, we
 will create an action that tells __Redux__ how to incorporate the update into
